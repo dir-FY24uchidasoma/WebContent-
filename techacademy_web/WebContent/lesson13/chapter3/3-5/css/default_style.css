@@ -1,0 +1,9 @@
+ul{
+	color:blue;
+	float:right;
+}
+
+li{
+	display:inline-block;
+	margin:20px;
+}
